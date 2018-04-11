@@ -162,3 +162,4 @@ while k < len(nodes1):
 P = G.subgraph(nodes1)
 
 oefkp
+dlfl
