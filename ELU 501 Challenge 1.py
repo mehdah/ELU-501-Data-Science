@@ -160,3 +160,5 @@ while k < len(nodes1):
     k += 1
     
 P = G.subgraph(nodes1)
+
+oefkp
